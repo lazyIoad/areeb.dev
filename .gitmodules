@@ -1,0 +1,3 @@
+[submodule "themes/beera"]
+	path = themes/beera
+	url = https://github.com/lazyIoad/beera.git

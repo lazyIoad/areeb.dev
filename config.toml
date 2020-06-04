@@ -1,0 +1,11 @@
+theme = "beera"
+baseURL = "https://areeb.dev/"
+languageCode = "en-us"
+title = "Areeb Khan"
+
+enableEmoji = true
+
+[params]
+  author = "Areeb Khan"
+  description = "NYC based SWE. Fan of simple things."
+  themeColor = "#222"
